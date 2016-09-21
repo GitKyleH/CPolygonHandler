@@ -1,6 +1,3 @@
-///Final Project, C++
-/// Kyle Harfoot 8388047
-
 /// A class hierarchy for creating and manipulating polygon shapes, storing the coordinates of the vertices.
 //
 /// Minimum specification :
