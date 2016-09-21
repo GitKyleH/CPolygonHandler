@@ -1,5 +1,5 @@
 /// A class hierarchy for creating and manipulating polygon shapes, storing the coordinates of the vertices.
-//
+
 /// Minimum specification :
 ///	Abstract base class for 2D polygons
 ///	Derived classes for : at least an isosceles triangle; rectangle; pentagon; hexagon
